@@ -13,10 +13,6 @@ git clone https://github.com/pritul2/yolov5_FaceMask
 2) Run inference 
 For running inference you required trained weights which is obtained from my repo cloned as yolov5_FaceMask<br/>
 
-```
-$ python detect.py --source ./inference/images/ --weights yolov5s.pt --conf 0.4
-```
-
 For CCTV and other types run like this
 ```
 $ python detect.py --weights last_mask_yolov5s_results.pt --conf 0.4 --source 0  # webcam
