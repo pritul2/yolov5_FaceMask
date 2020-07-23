@@ -22,3 +22,8 @@ $ python detect.py --weights last_mask_yolov5s_results.pt --conf 0.4 --source 0 
                                                                               rtsp://170.93.143.139/rtplive/470011e600ef003a004ee33696235daa  # rtsp stream
                                                                               http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8  # http stream
 ```
+## Increasing accuracy and Future Scope
+The dataset contains 149 Images which is very less for yolo architecture. So during training I performed augmentation and increased to 298 Images.<br/>
+To get more accuracy the training dataset needs to increase.<br/>
+
+## Output Results from open source images
