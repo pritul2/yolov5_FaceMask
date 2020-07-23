@@ -19,11 +19,11 @@ $ python detect.py --source ./inference/images/ --weights yolov5s.pt --conf 0.4
 
 For CCTV and other types run like this
 ```
-$ python detect.py --weights yolov5s.pt --conf 0.4 --source 0  # webcam
-                                                            file.jpg  # image 
-                                                            file.mp4  # video
-                                                            path/  # directory
-                                                            path/*.jpg  # glob
-                                                            rtsp://170.93.143.139/rtplive/470011e600ef003a004ee33696235daa  # rtsp stream
-                                                            http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8  # http stream
+$ python detect.py --weights last_mask_yolov5s_results.pt --conf 0.4 --source 0  # webcam
+                                                                              file.jpg  # image 
+                                                                              file.mp4  # video
+                                                                              path/  # directory
+                                                                              path/*.jpg  # glob
+                                                                              rtsp://170.93.143.139/rtplive/470011e600ef003a004ee33696235daa  # rtsp stream
+                                                                              http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8  # http stream
 ```
