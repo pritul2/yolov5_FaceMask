@@ -1,5 +1,7 @@
+[![colab](https://user-images.githubusercontent.com/4096485/86174089-b2709f80-bb29-11ea-9faf-3d8dc668a1a5.png)](https://colab.research.google.com/github/pritul2/yolov5_FaceMask/blob/master/yolov5_train.ipynb)
 # yolov5_FaceMask
-* The dataset used for training the yolov5 is from roboflow.ai
+* The dataset used for training the yolov5 is from roboflow.ai<br/>
+
 ## Output result from testing dataset
 ![output_img](https://user-images.githubusercontent.com/41751718/88246529-6cd26d00-ccb8-11ea-8dc5-d6393c0b54cc.png)
 ## Installation
