@@ -1,4 +1,4 @@
-[![colab](https://user-images.githubusercontent.com/4096485/86174089-b2709f80-bb29-11ea-9faf-3d8dc668a1a5.png)](https://colab.research.google.com/github/pritul2/yolov5_FaceMask/blob/master/yolov5_train.ipynb)
+[![colab](https://user-images.githubusercontent.com/4096485/86174097-b56b9000-bb29-11ea-9240-c17f6bacfc34.png)](https://colab.research.google.com/github/pritul2/yolov5_FaceMask/blob/master/yolov5_train.ipynb)
 # yolov5_FaceMask
 * The dataset used for training the yolov5 is from roboflow.ai<br/>
 
