@@ -1,4 +1,6 @@
 [![colab](https://user-images.githubusercontent.com/4096485/86174097-b56b9000-bb29-11ea-9240-c17f6bacfc34.png)](https://colab.research.google.com/github/pritul2/yolov5_FaceMask/blob/master/yolov5_train.ipynb)
+<br/>
+<i> Click on Train in Colab if .ipynb not opening </i>
 # yolov5_FaceMask
 * The dataset used for training the yolov5 is from roboflow.ai<br/>
 
